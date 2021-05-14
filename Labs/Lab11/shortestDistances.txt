@@ -1,0 +1,1 @@
+{Pensacola=[target = Pueblo, distance = 8], Pendleton=[target = Pueblo, distance = 5], Pierre=[target = Pueblo, distance = 3], Princeton=[target = Pueblo, distance = 10], Pueblo=[target = Pueblo, distance = 0], Peoria=[target = Pueblo, distance = 3], Phoenix=[target = Pueblo, distance = 3], Pittsburgh=[target = Pueblo, distance = 8]}
